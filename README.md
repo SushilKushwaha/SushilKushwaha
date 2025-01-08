@@ -6,7 +6,7 @@ I'm a Full Stack MERN Developer skilled in building modern web applications with
 <!-- ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=SushilKushwaha&show_icons=true&hide_title=true&hide=prs&count_private=true) -->
 
 ## Connect with Me
-- LinkedIn: [Sushil Kushwaha](www.linkedin.com/in/sushil-kushwaha-71aa13220)
+- LinkedIn: [Sushil Kushwaha]([https://linkedin.com/in/sushil-kushwaha-71aa13220)
 - Email: [sushilsinha733@gmail.com](mailto:sushilsinha733@gmail.com)
 
 
