@@ -1,12 +1,9 @@
 ## Hi there... 👋
-# Welcome to My GitHub! 😊
 ## I'm Sushil Kushwaha... 🙏 NP
-# Full Stack Developer
 I'm a Full Stack MERN Developer skilled in building modern web applications with the MERN stack.
 🌱 I’m currently building & learning ...
 
-
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=SushilKushwaha&show_icons=true&hide_title=true&hide=prs&count_private=true)
+<!-- ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=SushilKushwaha&show_icons=true&hide_title=true&hide=prs&count_private=true) -->
 
 ## Connect with Me
 - LinkedIn: [Sushil Kushwaha](www.linkedin.com/in/sushil-kushwaha-71aa13220)
